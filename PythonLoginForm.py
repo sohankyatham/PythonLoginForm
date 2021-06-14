@@ -10,6 +10,7 @@ root.geometry("300x300")
 root.title("Python Login Form")
 
 
+
 # Show Password Function
 def ShowPasswordFunc():
     if CheckedShowPassword.get() == 1:
